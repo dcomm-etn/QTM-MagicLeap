@@ -11,7 +11,8 @@ This project implements the [Qualisys Realtime SDK for .NET](https://github.com/
 
 [Unity Hub](https://docs.unity3d.com/Manual/GettingStartedUnityHub.html) is recommended.
 
-- Open the Unity project.
+After cloning and opening the Unity project:
+
 - Import the Magic Leap Unity Package. 
 - In *Build Settings > Lumin OS*, make sure that the *Lumin SDK Location* is pointing to the correct directory, and that Lumin OS is set as the build platform.
 - In *Publishing Settings*, make sure that *ML Certificate* is set to point to your Magic Leap certificate.
