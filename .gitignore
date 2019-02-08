@@ -1,7 +1,9 @@
 [Aa]ssets/MagicLeap/
 [Aa]ssets/Presets/
 [Mm]lsdk/
-
+.out/
+.vscode/
+*.package
 
 ## https://github.com/github/gitignore/blob/master/Unity.gitignore
 

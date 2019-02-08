@@ -14,7 +14,7 @@ This project implements the [Qualisys Realtime SDK for .NET](https://github.com/
 - Open the Unity project.
 - Import the Magic Leap Unity Package. 
 - In *Build Settings > Lumin OS*, make sure that the *Lumin SDK Location* is pointing to the correct directory, and that Lumin OS is set as the build platform.
-- In *Publishing Settings*, make sure that *ML Certificate* is set to point to the correct file.
+- In *Publishing Settings*, make sure that *ML Certificate* is set to point to your Magic Leap certificate.
 - Set up the *Connector_Controller* script attached to the *Control and Connection* GameObject:
     - *IP Address* should point to the computer from which QTM is streaming data.
     - *Print...* and *Render...* options allow for various ways of displaying the incoming data. (Printing to console is slow, printing a high-frequency data stream will congestion.)
